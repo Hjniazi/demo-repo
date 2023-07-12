@@ -1,0 +1,25 @@
+
+html, body {
+    font-family: "arial", "Helvetica", "Verdana", "sans-serif";
+}
+h1 {
+    text-align:center;
+    color: crimson;  
+    font-size: 42px;
+    background-color: rgba(128, 128, 128, 0.575);
+    text-decoration: underline;
+    text-decoration-style: dotted ;
+}
+ol {
+    color: rgba(63, 61, 61, 0.822);
+    font-size: 0.7rem;
+    margin: 10px;
+}
+p {
+    line-height: 20px;
+    text-align: center;
+    color: rgba(68, 65, 65, 0.904);
+    font: 1em sans-serif;
+    font-style: italic;
+
+}

@@ -1,0 +1,28 @@
+html, body{
+    font-family: arial;
+}
+h1 {
+    font-family: arial;
+    font-size: 60px;
+    text-align: center; 
+    color: crimson ;
+    background-color: rgba(128, 128, 128, 0.651);
+    }
+h2 {
+    color: crimson;
+    font-family: arial;
+    }
+p {
+    font-size: 16px;
+    line-height: 15px;
+    color: rgb(12, 12, 12);
+  }
+ul{
+    color: rgba(63, 61, 61, 0.822);
+}
+ol{
+    color: rgba(63, 61, 61, 0.822);
+}
+ul{
+    list-style-type: square;
+}
